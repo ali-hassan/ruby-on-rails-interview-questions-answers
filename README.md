@@ -1,5 +1,7 @@
 # Ruby on Rails Technical Interview Questions:
 
+## Important questions but you can check other stuff as well from google. it various from experience to experience.
+
 
 ### Lambda
 Despite the fancy name, a lambda is just a **function**... peculiarly... without a name. They're **anonymous**, little functional spies sneaking into the rest of your code.
